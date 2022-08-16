@@ -33,3 +33,20 @@ nav a {
     color: #000;
     text-decoration: none;
 }
+
+main {
+    width: 750px;
+    margin: 40px 370px;
+}
+
+section {
+    width: 500px;
+    height: auto;
+    margin: 40px 100px;
+    background-color: #F6F6F9;
+    border-radius: 20PX;
+}
+
+section h2 {
+    font-size: 19px;
+}
