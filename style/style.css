@@ -45,6 +45,7 @@ section {
     margin: 40px 100px;
     background-color: #F6F6F9;
     border-radius: 20PX;
+    padding: 20px;
 }
 
 section h2 {
@@ -73,3 +74,22 @@ section h2 {
 #btnNovaTarefa:hover {
     transform: scale(1.1);
 }
+
+#listaTarefas ul {
+    padding: 0;
+    margin: 0;
+}
+
+#listaTarefas li {
+    list-style: none;
+    padding: 20px 10px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #FFF;
+}
+
+#listaTarefas li:hover {
+    background-color: #0CCBDE;
+    color: #FFFFFF;
+}
+
