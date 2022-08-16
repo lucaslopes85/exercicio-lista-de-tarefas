@@ -50,3 +50,12 @@ section {
 section h2 {
     font-size: 19px;
 }
+
+#inputNovaTarefa {
+    font-family: Lato, sans-serif;
+    padding: 0 10px;
+    width: 380px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #0CCBDE;
+}
