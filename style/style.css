@@ -5,3 +5,18 @@ body {
     padding: 0;
     margin: 0;
 }
+
+header {
+    width: 300px;
+    margin: 0 550px;
+}
+
+header img {
+    float: left;
+}
+
+header h1 {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
