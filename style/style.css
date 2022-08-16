@@ -59,3 +59,17 @@ section h2 {
     border-radius: 5px;
     border: 1px solid #0CCBDE;
 }
+
+#btnNovaTarefa {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    margin: 25px;
+    background-color: #0CCBDE;
+    color: #FFF;
+}
+
+#btnNovaTarefa:hover {
+    transform: scale(1.1);
+}
